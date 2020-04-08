@@ -46,6 +46,6 @@ df = df.dropna(axis=0, how='any')    # remove nan value
 df = df.drop(df.index[0])   # remove Duplicate Index
 print(df.head())
 
-#uncomment me to download data into csv file format
-#df.to_csv('Covid-19(India).csv','w')
+
+df.to_csv('Covid-19(India).csv','w')
 
