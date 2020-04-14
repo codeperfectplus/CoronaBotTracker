@@ -1,32 +1,47 @@
 # Covid19
+
  > Coronavirus disease (COVID-19) is an infectious disease caused by a new virus.
 The disease causes respiratory illness (like the flu) with symptoms such as a cough, fever, and in more severe cases, difficulty breathing. You can protect yourself by washing your hands frequently, avoiding touching your face, and avoiding close contact (1 meter or 3 feet) with people who are unwell.
 
-##### Introduction
+- [Covid19](#covid19)
+  - [Introduction](#introduction)
+  - [How To Run](#how-to-run)
+  - [Usage](#usage)
+  - [Support](#support)
+  - [Roadmap](#roadmap)
+  - [Contributing](#contributing)
+  - [Authors and acknowledgment](#authors-and-acknowledgment)
+  - [License](#license)
+  - [Project status](#project-status)
+  - [Author](#author)
+
+## Introduction
+
 - Covid19 Data scraping with Python
 
-# How To Run 
+## How To Run
+
 - Install python 3.6+
 - Pip insall
-    - pandas
-    - BeautifulSoup
-    - bs4
-    - requests
-
-## Installation
-Fork Project and contribute to improve Analysis
+  - pandas
+  - BeautifulSoup
+  - bs4
+  - requests
 
 ## Usage
+
 A good start with data-analysis for beginner
 
 ## Support
-contributers 
 
+contributors
 
 ## Roadmap
-Data Analysis With Covid-19 Dataset For Finding More Insight About The Virus.
+
+Data Analysis With COVID-19 Dataset For Finding More Insight About The Virus.
 
 ## Contributing
+
 Before submitting a bug, please do the following:
 
 Perform basic troubleshooting steps:
@@ -36,18 +51,19 @@ Perform basic troubleshooting steps:
 - Try switching up dependency versions. If the software in question has dependencies (other libraries, etc) try upgrading/downgrading those as well.
 
 ## Authors and acknowledgment
+
 Show your appreciation to those who have contributed to the project.
 
-
 ## License
-For open source projects,Under MIT License.
+
+For open-source projects, Under MIT License.
 
 ## Project status
 
 ## Author
+
 - Project : Covid19
 - Author  : CodePerfectPlus
 - Language : Python
-- Github : https://github.com/codePerfectPlus
-- Website : http://codeperfectplus.github.io/
-
+- Github : <https://github.com/codePerfectPlus>
+- Website : <http://codeperfectplus.github.io/>
