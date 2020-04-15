@@ -16,10 +16,9 @@ for row in all_rows:
 
 new_cols = ["Sr.No", "States/UT","Confirmed","Recovered","Deceased"]
 state_data = pd.DataFrame(data = stats, columns = new_cols)
-print(state_data.head())
 
 state_data['Confirmed'] = state_data['Confirmed'].map(int)
 state_data['Recovered'] = state_data['Recovered'].map(int)
 state_data['Deceased']  = state_data['Deceased'].map(int)
-
-state_data.to_csv('Corona.csv')
+print(state_data.head())
+#state_data.to_csv('Corona.csv')
